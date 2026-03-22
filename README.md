@@ -5,9 +5,20 @@ for side index UIs (such as A-Z quick navigation lists).
 
 ## Demo
 
-| iOS | Android |
-| --- | --- |
-| ![iOS Demo](https://raw.githubusercontent.com/huangjim/flutter_contact_index/main/doc/images/demo-ios.png) | ![Android Demo](https://raw.githubusercontent.com/huangjim/flutter_contact_index/main/doc/images/demo-android.png) |
+<table>
+  <tr>
+    <td align="center"><b>iOS</b></td>
+    <td align="center"><b>Android</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/huangjim/flutter_contact_index/main/doc/images/demo-ios.png" alt="iOS Demo" width="370" />
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/huangjim/flutter_contact_index/main/doc/images/demo-android.png" alt="Android Demo" width="280" />
+    </td>
+  </tr>
+</table>
 
 ## Features
 
@@ -20,7 +31,7 @@ for side index UIs (such as A-Z quick navigation lists).
 
 ```yaml
 dependencies:
-  flutter_contact_index: ^0.1.1
+  flutter_contact_index: ^0.1.2
 ```
 
 Then run:

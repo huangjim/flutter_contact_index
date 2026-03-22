@@ -1,3 +1,7 @@
+## 0.1.2
+
+- Tune README demo image display size for better visual balance between iOS and Android screenshots.
+
 ## 0.1.1
 
 - Fix README demo screenshots not rendering on pub.dev by using absolute GitHub image URLs.
