@@ -7,7 +7,7 @@ for side index UIs (such as A-Z quick navigation lists).
 
 | iOS | Android |
 | --- | --- |
-| ![iOS Demo](doc/images/demo-ios.png) | ![Android Demo](doc/images/demo-android.png) |
+| ![iOS Demo](https://raw.githubusercontent.com/huangjim/flutter_contact_index/main/doc/images/demo-ios.png) | ![Android Demo](https://raw.githubusercontent.com/huangjim/flutter_contact_index/main/doc/images/demo-android.png) |
 
 ## Features
 
@@ -20,7 +20,7 @@ for side index UIs (such as A-Z quick navigation lists).
 
 ```yaml
 dependencies:
-  flutter_contact_index: ^0.1.0
+  flutter_contact_index: ^0.1.1
 ```
 
 Then run:

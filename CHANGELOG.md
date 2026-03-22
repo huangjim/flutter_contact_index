@@ -1,3 +1,7 @@
+## 0.1.1
+
+- Fix README demo screenshots not rendering on pub.dev by using absolute GitHub image URLs.
+
 ## 0.1.0
 
 - **Breaking:** Rename package to `flutter_contact_index` for public release.

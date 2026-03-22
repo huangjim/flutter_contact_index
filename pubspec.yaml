@@ -1,6 +1,6 @@
 name: flutter_contact_index
 description: "Read contacts and provide indexed list grouping for Flutter."
-version: 0.1.0
+version: 0.1.1
 homepage: https://github.com/huangjim/flutter_contact_index
 repository: https://github.com/huangjim/flutter_contact_index
 issue_tracker: https://github.com/huangjim/flutter_contact_index/issues
